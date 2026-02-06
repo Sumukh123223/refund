@@ -1,0 +1,1 @@
+import{_ as a}from"./hych-chaoxisima-B8i5Jx_X.js";import{I as o,G as r,a3 as s}from"./hych-chaoxisima-Csfb3BWR.js";const t=a({},[["render",function(a,t){const i=s("router-view");return r(),o(i)}]]);export{t as default};
